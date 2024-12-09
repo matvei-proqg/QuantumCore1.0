@@ -1,5 +1,6 @@
 # QuantumCore
 The **QuantumCore** Operating system is a simple and lightweight project inspired by linux but without the unix QuantumCore is core of future.
+You can edit code in this project and copy but use my project not fot commercical using
 
 # what to add
 
